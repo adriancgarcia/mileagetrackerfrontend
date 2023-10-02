@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #outputDiv {
+            width: 60%;
+            margin-left: 20%;
+            text-align: center;
+            padding-top: 20px;
+            font-size: 200%;
+            color: black;
+            border: 1px solid black;
+        }
+    </style>
+
+    <script src="test.js"></script>
+</head>
+<body>
+    Trip beginning: <input tye="text" id="tripStart">
+    Trip End: <input type="text" id="tripEnd">
+    cost per mile <input type="text" id="tripReimbursed">
+    <button type="button" onclick="calculateReimbursement()">Calculate Reimbursement Amount</button>
+    <div id="outputDiv"></div>
+</body>
+</html>

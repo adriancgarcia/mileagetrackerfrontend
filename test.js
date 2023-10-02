@@ -1,4 +1,4 @@
-function calcReimbursement() {
+function calculateReimbursement() {
     let tripStart = parseFloat(document.getElementById('tripStart').value);
     let tripEnd = parseFloat(document.getElementById('tripEnd').value);
     let tripReimbursed = parseFloat(document.getElementById('tripReimbursed').value);
