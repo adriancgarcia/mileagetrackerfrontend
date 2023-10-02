@@ -5,7 +5,7 @@
 - [**Link To  Backend GITHUB**](https://github.com/adriancgarcia/mileagetrackerbackend)
 - [**LINK TO DEPLOYED WEBSITE**]()
 - **List of technologies used** Svelte, HTML, CSS
-- [**Link to Trello**](https://trello.com/b/4KPQUvN2/job-application-tracker)
+- [**Link to Trello**]()
 
 ## Description
 
